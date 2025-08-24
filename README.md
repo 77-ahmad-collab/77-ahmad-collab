@@ -1,7 +1,7 @@
 # Hi, I’m Muhammad 👋  
 
 🚀 Software Engineer in Helsinki (MSc Data Science)  
-⚡ I build backends that don’t break — reliable, fast, and efficient.  
+⚡ I build systems that don’t break — reliable, fast, and efficient.  
 
 ---
 
